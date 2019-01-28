@@ -1,0 +1,31 @@
+.red {
+    color: red;
+    font-size: xx-large;
+}
+
+.example {
+    color: aqua;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#start {
+  width: 300px;
+  height: 100px;
+  padding: 10px;
+  margin: 20px;
+  border: 3px solid blue;
+  background-color: red;
+  color: white;
+}
+
+.colors {
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 200px;
+}
+
+#showDate {
+    font-size: xx-large;
+    font-weight: bold;
+}
